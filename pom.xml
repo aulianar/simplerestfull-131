@@ -14,7 +14,7 @@
 	<name>projectrestful</name>
 	<description>project restful lanjutan</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

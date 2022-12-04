@@ -5,11 +5,15 @@
  */
 package ws.pojo;
 
+
 /**
  *
- * @author USER DJOGJA
+ * @author Auliana
  */
 public class Product {
+        
+    private String id;
+    private String name;
 
     public String getId() {
         return id;
@@ -26,7 +30,4 @@ public class Product {
     public void setName(String name) {
         this.name = name;
     }
-    
-    private String id;
-    private String name;
 }
